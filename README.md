@@ -1,4 +1,4 @@
-![Bias Analyzer](https://github.com/user-attachments/assets/a035fc3d-b7ed-4eed-8842-95d90fee5fbb)
+![Bias Analyzer](https://github.com/user-attachments/assets/fd0ca3e9-f454-4ef3-ba43-840e7b9ac091)
 
 >  Examine prejudice and unfairness in information, individuals and groups against other people, places and objects.
 
