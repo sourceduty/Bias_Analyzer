@@ -266,6 +266,8 @@ This analysis provides a structured overview of potential biases and areas for i
 [Political Simulator](https://chat.openai.com/g/g-HJp62OrcF-public-simulator)
 <br>
 [Research Generator](https://chatgpt.com/g/g-uxHzF0xR5-research-generator)
+<br>
+[Grand Theft Auto 8](https://github.com/sourceduty/Grand_Theft_Auto_8)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
