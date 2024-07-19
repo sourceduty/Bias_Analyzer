@@ -241,7 +241,6 @@ Compared to other games in the open-world genre, "GTA5" is more explicit in its 
 **a. Highlight areas for improvement**
 
 - Increase positive representation of diverse groups.
-- 
 - Avoid reinforcing stereotypes through character and plot development.
 
 **b. Suggest ways to enhance diversity and reduce bias**
