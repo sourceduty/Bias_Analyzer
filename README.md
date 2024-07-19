@@ -13,7 +13,7 @@ Ultimately, the goal of the Bias Analyzer is to foster greater awareness and und
 #
 ### Example Usage
 
-<details><summary>Example Information</summary>
+<details><summary>Bias Information</summary>
 <br>
 
 "Recent studies show that people from rural areas are less intelligent than those from urban areas. The study, conducted by an urban university, highlights the superior educational opportunities available in cities, leading to better cognitive development."
